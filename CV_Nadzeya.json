@@ -1,0 +1,34 @@
+{
+"name":"Kareuka Nadzeya",
+"position":"Manual QA Engineer",
+"Contacts":
+[
+{"MobilePhone":"+375(29)7509109"},
+{"email":"nadzeyakareuka@gmail.com"}
+],
+"Address": "Minsk, Belarus",
+"Description": "I am a beginner Software QA Engineer with an economic background. I\'m eager to join a new project where I can use my skills.",
+"Skills":["Functional and non-functional testing", "Regression testing", "Basic knowledge in HTML and CSS, layout of web-sites including adaptive", "Basic knowledge in SQL, work experience in MySQL", "Mobile resting", "Web testing", "Basic knowledge in testing API", "Basic knowledge in DevTools", "Cross-browser testing", "Test design techniques"],
+"Tools":["Github", "Postman", "Swagger", "Jira", "TestRail", "Confluence", "Trello", "HTML", "MySQL", "Android Studio"],
+"WorkHistory":[
+{"Company":"SolbegSoft LLC",
+"Position":"QA Engineer",
+"DateOfWork":"October 2021 - October 2022",
+"WorkDescription":["Test planning", "Test case and check list development", "Test execution", "Bug reporting", "Regression testing", "Smoke testing",]}, 
+{"Company":"Kasada LLC",
+"Position":"Economist",
+"DateOfWork":"September 2005 - October 2021",
+"WorkDescription":["economic calculations", "working with contracts", "working with clients", "working with the program for calculating estimates", "calculations for participation in tenders"]}
+],
+"Education":[
+{"Educational centre": "SkillUp",
+"DateOfEducation":"May 2021 - July 2021",
+"Skills":"Writing test documentation, bug reports, test-plan, check-list, test cases, user stories"},
+{"Educational centre": "IT-Academy of Hi-Tech Park Belarus",
+"DateOfEducation":"April 2017 - August 2017",
+"Skills":["Basic knowledge of HTML, CSS, JavaScript", "Development of web-sites"]},
+{"Educational centre": "BSU, Faculty of Economics",
+"DateOfEducation":"September 2002 - June 2007"} 
+]
+
+}
