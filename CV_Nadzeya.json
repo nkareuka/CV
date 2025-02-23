@@ -7,14 +7,14 @@
 {"email":"nadzeyakareuka@gmail.com"}
 ],
 "Address": "Minsk, Belarus",
-"Description": "I am a beginner Software QA Engineer with an economic background. I\'m eager to join a new project where I can use my skills.",
+"Description": "I am a beginner Software QA Engineer with an economic background. I'm eager to join a new project where I can use my skills.",
 "Skills":["Functional and non-functional testing", "Regression testing", "Basic knowledge in HTML and CSS, layout of web-sites including adaptive", "Basic knowledge in SQL, work experience in MySQL", "Mobile resting", "Web testing", "Basic knowledge in testing API", "Basic knowledge in DevTools", "Cross-browser testing", "Test design techniques"],
 "Tools":["Github", "Postman", "Swagger", "Jira", "TestRail", "Confluence", "Trello", "HTML", "MySQL", "Android Studio"],
 "WorkHistory":[
 {"Company":"SolbegSoft LLC",
 "Position":"QA Engineer",
 "DateOfWork":"October 2021 - October 2022",
-"WorkDescription":["Test planning", "Test case and check list development", "Test execution", "Bug reporting", "Regression testing", "Smoke testing",]}, 
+"WorkDescription":["Test planning", "Test case and check list development", "Test execution", "Bug reporting", "Regression testing", "Smoke testing"]}, 
 {"Company":"Kasada LLC",
 "Position":"Economist",
 "DateOfWork":"September 2005 - October 2021",
